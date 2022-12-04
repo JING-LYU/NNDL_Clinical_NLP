@@ -19,13 +19,17 @@ For some normal variables, please check the sample data, here list the modified 
 - Direct tnformation for next admission
 
 NEXT_ADMITTIME: ADMITTIME of the next admission
+
 NEXT_ADMISSION_TYPE: ADMISSION_TYPE of the next admission 
+
 NEXT_ADMISSION_LOCATION: ADMISSION_LOCATION of the next admission
+
 NEXT_DISCHARGE_LOCATION: DISCHARGE_LOCATION of the next admission
 
 - Calculated information for next admission
 
 DAYS_NEXT_ADMIT: Number of days between next admission time and this dicharge time
+
 OUTPUT_LABEL: if DAYS_NEXT_ADMIT < 30, return 1; else return 0
 
 - Calculated information for this admission
