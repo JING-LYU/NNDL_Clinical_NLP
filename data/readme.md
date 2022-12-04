@@ -1,3 +1,5 @@
+!!! Because the data privacy and size constrain, please access the full data from my google drive!
+
 # DATA Dictionary:
 
 ## admission_sample.csv
